@@ -4,10 +4,10 @@
 #define NUM_CHANNELS 5
 
 // Pins for Footswitches
-#define CHAN_1_SW 2
-#define CHAN_2_SW 3
-#define CHAN_3_SW 4
-#define CHAN_4_SW 7
+#define CHAN_1_SW 12
+#define CHAN_2_SW A0
+#define CHAN_3_SW 3
+#define CHAN_4_SW 4
 #define CHAN_5_SW 8
 
 #define SW_DEBOUNCE_DELAY 20
